@@ -13,7 +13,7 @@ private _clientUnlockedUpdateInterval = 8;
 private _timerInterval = 3;
 
 // Client will be shown which TS3 address to connect to
-private _TS3ServerAddressDisplay = "188.40.166.148:10024";
+private _TS3ServerAddressDisplay = "ts.spartangaming.club";
 
 // The message to show to the client
 private _clientMessageDisplay = "Hello and welcome to Task Force Spartan's Domination server!\n\n
